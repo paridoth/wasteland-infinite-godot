@@ -11,3 +11,7 @@ AP combat and item-driven play, Dwarf Fortress-style generated history, LLM-driv
 
 3D models and character rig/skins/animations: [Kenney](https://kenney.nl) — Animated Characters:
 Survivors, Survival Kit, City Kit (Industrial). All CC0; licenses in `game/assets/kenney/*/License.txt`.
+
+## License
+
+Code: [MIT](LICENSE). Third-party assets keep their own licenses (Kenney packs: CC0).
